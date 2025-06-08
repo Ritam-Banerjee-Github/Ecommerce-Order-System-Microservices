@@ -53,7 +53,7 @@ This is a full-fledged **E-Commerce Order Processing System** built using **Java
 |------------|------------------------------------------------------------------------------|
 | **Factory**    | Payment method creation (`CreditCard`, `DebitCard`, `Cash`, `GPay`, etc.)  |
 | **Strategy**   | Cashback logic per payment type (shared for UPI methods)                  |
-| **Observer**   | Notify other systems (e.g., Inventory) after Order is placed              |
+| **Observer**   | Send Notifications (e.g., Email, SMS) after Order is placed              |
 | **Builder**    | Construct immutable Payment object with fluent builder                    |
 
 ---
