@@ -49,7 +49,7 @@ This is a full-fledged **E-Commerce Order Processing System** built using **Java
 
 ## 🧱 Design Patterns Used
 
-| Pattern    |  Usecase                                                                  |
+| Pattern    | Usecase                                                                  |
 |------------|------------------------------------------------------------------------------|
 | **Factory**    | Payment method creation (`CreditCard`, `DebitCard`, `Cash`, `GPay`, etc.)  |
 | **Strategy**   | Cashback logic per payment type (shared for UPI methods)                  |
@@ -62,5 +62,5 @@ This is a full-fledged **E-Commerce Order Processing System** built using **Java
 
 1. **Clone this repo**
    ```bash
-   git clone https://github.com/your-username/ecommerce-order-processing.git
+   git clone https://github.com/Ritam-Banerjee-Github/Ecommerce-Order-System-Microservices.git
    cd ecommerce-order-processing
