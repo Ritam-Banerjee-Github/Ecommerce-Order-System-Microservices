@@ -49,7 +49,7 @@ This is a full-fledged **E-Commerce Order Processing System** built using **Java
 
 ## 🧱 Design Patterns Used
 
-| Pattern    | Where & Why                                                                 |
+| Pattern    |  Usecase                                                                  |
 |------------|------------------------------------------------------------------------------|
 | **Factory**    | Payment method creation (`CreditCard`, `DebitCard`, `Cash`, `GPay`, etc.)  |
 | **Strategy**   | Cashback logic per payment type (shared for UPI methods)                  |
